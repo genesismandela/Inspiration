@@ -1,0 +1,25 @@
+// Browser Resets
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+  max-width: 1600px;
+  background-color: #fff;
+  color: #000;
+}
+
+main {
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
